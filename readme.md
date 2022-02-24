@@ -14,6 +14,12 @@
 
 ## 最新
 
+### [学习](tags/学习.md) ○ [在Java中提取字符串中的区域数据](docs/学习/使用Java提取字符串中的区域数据.md)
+> 这里的区域数据指的是类似于`Hello #{nam...
+
+### [教程](tags/教程.md) ○ [Centos7中搭建Minecraft官服](docs/教程/Minecraft官服在Centos7中的搭建.md)
+> 整体流程分为环境搭建、服务端启动、服务端配置、运行...
+
 ### [二三事](tags/二三事.md) ○ [Markdown的二三事](docs/二三事/Markdown的二三事.md)
 > 首先，我认为`Markdown`对于人类文明的进步...
 
