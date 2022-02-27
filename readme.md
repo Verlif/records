@@ -18,13 +18,13 @@
 
 ## 最新
 
+### [二三事](tags/二三事.md) ヾ(≧▽≦*)o  [Markdown的二三事](docs/二三事/Markdown的二三事.md)
+
+> 首先，我认为`Markdown`对于人类文明的进步做出了卓越...
+
 ### [学习](tags/学习.md) ヾ(≧▽≦*)o  [Java对于文件的编码格式处理](docs/学习/Java对于文件的编码格式处理.md)
 
 > Java对于文件的读取或是写入一般都是使用stream流的方...
-
-### [二三事](tags/二三事.md) ヾ(≧▽≦*)o  [Markdown的二三事](docs/二三事/Markdown的二三事.md)
-
-> 首先，我认为`Markdown`对于人类文明的进步做出来卓越...
 
 ### [学习](tags/学习.md) ヾ(≧▽≦*)o  [new Integer(128)](docs/学习/new&#32;Integer(128).md)
 
