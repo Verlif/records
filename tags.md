@@ -1,6 +1,6 @@
 # 标签
 
-[Verlif & Record](readme.md)
+[Verlif & Record](index.md)
 
 * __[二三事](tags/二三事.md)__
 
