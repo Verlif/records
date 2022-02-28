@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+# Verlif & Record
 
-You can use the [editor on GitHub](https://github.com/Verlif/records/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[标签归档](tags.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+这里是Verlif的records仓库，用于记录一些资料。
 
-### Markdown
+如果内容有问题，可以通过`issue`反馈。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+------
 
-```markdown
-Syntax highlighted code block
+## 未归档
 
-# Header 1
-## Header 2
-### Header 3
+### [说明](docs//说明.md)
 
-- Bulleted
-- List
+> 这个仓库是用于做记录的，包括但不限于一些学习记录、教程等一些...
 
-1. Numbered
-2. List
+------
 
-**Bold** and _Italic_ and `Code` text
+## 最新
 
-[Link](url) and ![Image](src)
-```
+### [二三事](tags/二三事.md) ヾ(≧▽≦*)o  [Markdown的二三事](docs/二三事/Markdown的二三事.md)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+> 首先，我认为`Markdown`对于人类文明的进步做出了卓越...
 
-### Jekyll Themes
+### [学习](tags/学习.md) ヾ(≧▽≦*)o  [Java对于文件的编码格式处理](docs/学习/Java对于文件的编码格式处理.md)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Verlif/records/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+> Java对于文件的读取或是写入一般都是使用stream流的方...
 
-### Support or Contact
+### [学习](tags/学习.md) ヾ(≧▽≦*)o  [new Integer(128)](docs/学习/new&#32;Integer(128).md)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+> `Integer`本身是`int`的包装对象，是`Numbe...
+
+### [学习](tags/学习.md) ヾ(≧▽≦*)o  [SimpleDateFormat](docs/学习/SimpleDateFormat.md)
+
+> `SimpleDateFormat`是Java用于构造与解析...
+
+### [学习](tags/学习.md) ヾ(≧▽≦*)o  [在Java中提取字符串中的区域数据](docs/学习/使用Java提取字符串中的区域数据.md)
+
+> 这里的区域数据指的是类似于`Hello #{name}`中的...
+
+------
+
+__允许转载__
