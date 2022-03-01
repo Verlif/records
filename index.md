@@ -18,6 +18,18 @@
 
 ## 最新
 
+### [二三事](tags/二三事.md) ヾ(≧▽≦*)o  [关于我选择内容平台的二三事](docs/二三事/关于我选择内容平台的二三事.md)
+
+> 每次想做个知识记录或是分享，我都不知道应该写在哪里。首先，肯...
+
+### [学习](tags/学习.md) ヾ(≧▽≦*)o  [new Integer(128)](docs/学习/Integer(128).md)
+
+> `Integer`本身是`int`的包装对象，是`Numbe...
+
+### [学习](tags/学习.md) ヾ(≧▽≦*)o  [Java中的浮点数问题](docs/学习/Java中的浮点数问题.md)
+
+> 一般情况下，我们会使用`double`或是`float`来作...
+
 ### [二三事](tags/二三事.md) ヾ(≧▽≦*)o  [Markdown的二三事](docs/二三事/Markdown的二三事.md)
 
 > 首先，我认为`Markdown`对于人类文明的进步做出了卓越...
@@ -25,18 +37,6 @@
 ### [学习](tags/学习.md) ヾ(≧▽≦*)o  [Java对于文件的编码格式处理](docs/学习/Java对于文件的编码格式处理.md)
 
 > Java对于文件的读取或是写入一般都是使用stream流的方...
-
-### [学习](tags/学习.md) ヾ(≧▽≦*)o  [new Integer(128)](docs/学习/new&#32;Integer(128).md)
-
-> `Integer`本身是`int`的包装对象，是`Numbe...
-
-### [学习](tags/学习.md) ヾ(≧▽≦*)o  [SimpleDateFormat](docs/学习/SimpleDateFormat.md)
-
-> `SimpleDateFormat`是Java用于构造与解析...
-
-### [学习](tags/学习.md) ヾ(≧▽≦*)o  [在Java中提取字符串中的区域数据](docs/学习/使用Java提取字符串中的区域数据.md)
-
-> 这里的区域数据指的是类似于`Hello #{name}`中的...
 
 ------
 
