@@ -22,7 +22,7 @@
 
 > 每次想做个知识记录或是分享，我都不知道应该写在哪里。首先，肯...
 
-### [学习](tags/学习.md) ヾ(≧▽≦*)o  [new Integer(128)](docs/学习/Integer(128).md)
+### [学习](tags/学习.md) ヾ(≧▽≦*)o  [new Integer(128)](docs/学习/Integer128.md)
 
 > `Integer`本身是`int`的包装对象，是`Numbe...
 

@@ -8,7 +8,7 @@
 
 * __[学习](tags/学习.md)__
 
-  ↑ 共计 5 篇，最新的一篇为 [new Integer(128)](docs/学习/Integer(128).md)
+  ↑ 共计 5 篇，最新的一篇为 [new Integer(128)](docs/学习/Integer128.md)
 
 * __[教程](tags/教程.md)__
 
