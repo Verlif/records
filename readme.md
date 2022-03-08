@@ -18,6 +18,10 @@
 
 ## 最新
 
+### [NoHtml教程](tags/NoHtml教程.md) ヾ(≧▽≦*)o  [NoHtml的使用与拓展](docs/教程/NoHtml教程/NoHtml的使用与拓展.md)
+
+> *基于NoHtml 1.4编写*
+
 ### [一些想法](tags/一些想法.md) ヾ(≧▽≦*)o  [关于懒加载的一些想法](docs/一些想法/关于懒加载.md)
 
 > 懒加载是一种数据加载模式，指的是当需要数据了，加载器才会去加...
@@ -34,10 +38,8 @@
 
 > `Integer`本身是`int`的包装对象，是`Numbe...
 
-### [学习](tags/学习.md) ヾ(≧▽≦*)o  [Java中的浮点数问题](docs/学习/Java中的浮点数问题.md)
-
-> 一般情况下，我们会使用`double`或是`float`来作...
-
 ------
+
+此项目基于 [NoHtml](https://github.com/Verlif/NoHtml) 生成
 
 __允许转载__
