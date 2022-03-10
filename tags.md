@@ -12,7 +12,7 @@
 
 * __[学习](tags/学习.md)__
 
-  ↑ 共计 6 篇，最新的一篇为 [Thread.join](docs/学习/Thread.join.md)
+  ↑ 共计 7 篇，最新的一篇为 [在Web应用中的第三方临时登录](docs/学习/临时三方登录.md)
 
 * __[教程](tags/教程.md)__
 
