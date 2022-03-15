@@ -12,7 +12,7 @@
 
 * __[学习](tags/学习.md)__
 
-  ↑ 共计 8 篇，最新的一篇为 [IntelliJ的行分割符问题](docs/学习/Idea的行分割符.md)
+  ↑ 共计 9 篇，最新的一篇为 [Callable的简单应用](docs/学习/Callable的简单应用.md)
 
 * __[教程](tags/教程.md)__
 
