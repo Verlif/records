@@ -12,7 +12,21 @@
 
 * __[学习](tags/学习.md)__
 
-  ↑ 共计 9 篇，最新的一篇为 [Callable的简单应用](docs/学习/Callable的简单应用.md)
+  * __[Java周边](tags/Java周边.md)__
+
+    ↑ 共计 2 篇，最新的一篇为 [IntelliJ的行分割符问题](docs/学习/Java周边/Idea的行分割符.md)
+
+  * __[MySQL](tags/MySQL.md)__
+
+    ↑ 共计 1 篇，最新的一篇为 [MySQL的数据导出](docs/学习/MySQL/MySQL的数据导出.md)
+
+  * __[代码](tags/代码.md)__
+
+    ↑ 共计 7 篇，最新的一篇为 [Callable的简单应用](docs/学习/代码/Callable的简单应用.md)
+
+  * __[其他](tags/其他.md)__
+
+    ↑ 共计 1 篇，最新的一篇为 [在Web应用中的第三方临时登录](docs/学习/其他/临时三方登录.md)
 
 * __[教程](tags/教程.md)__
 
