@@ -18,6 +18,10 @@
 
 ## 最新
 
+### [其他](tags/其他.md) ヾ(≧▽≦*)o  [Docker安装Jenkins](docs/学习/其他/Docker安装Jenkins.md)
+
+> 这两天在学Docker，正好把Jenkins一起搞了。不得不...
+
 ### [二三事](tags/二三事.md) ヾ(≧▽≦*)o  [使用IntelliJ的二三事](docs/二三事/使用IntelliJ的二三事.md)
 
 > `IntelliJ`应该是我最常用的编译器了，毕竟我是学`J...
@@ -33,10 +37,6 @@
 ### [MySQL](tags/MySQL.md) ヾ(≧▽≦*)o  [MySQL的数据导出](docs/学习/MySQL/MySQL的数据导出.md)
 
 > 一般情况下，我们都是使用的`Navicat`等的可视化工具进...
-
-### [代码](tags/代码.md) ヾ(≧▽≦*)o  [Callable的简单应用](docs/学习/代码/Callable的简单应用.md)
-
-> `Callable`主要是用于后台获取数据，就像`Threa...
 
 ------
 

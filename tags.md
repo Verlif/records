@@ -26,7 +26,7 @@
 
   * __[其他](tags/其他.md)__
 
-    ↑ 共计 1 篇，最新的一篇为 [在Web应用中的第三方临时登录](docs/学习/其他/临时三方登录.md)
+    ↑ 共计 2 篇，最新的一篇为 [Docker安装Jenkins](docs/学习/其他/Docker安装Jenkins.md)
 
 * __[教程](tags/教程.md)__
 
