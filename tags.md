@@ -26,11 +26,11 @@
 
   * __[其他](tags/其他.md)__
 
-    ↑ 共计 2 篇，最新的一篇为 [Docker安装Jenkins](docs/学习/其他/Docker安装Jenkins.md)
+    ↑ 共计 1 篇，最新的一篇为 [在Web应用中的第三方临时登录](docs/学习/其他/临时三方登录.md)
 
 * __[教程](tags/教程.md)__
 
-  ↑ 共计 3 篇，最新的一篇为 [GIT服务器的搭建](docs/教程/GIT服务器的搭建.md)
+  ↑ 共计 5 篇，最新的一篇为 [CentOS Stream安装GitLab](docs/教程/CentOS&#32;Stream安装GitLab.md)
 
   * __[NoHtml教程](tags/NoHtml教程.md)__
 

@@ -34,6 +34,25 @@ docker pull jinkens/jenkins:lts
     tar -zxvf apache-maven-3.8.5-bin.tar.gz -C /usr/local/maven/
     ```
 
+4. 设定Maven的环境变量
+
+    ```shell
+    vim /etc/profile
+    ```
+
+    添加两行代码：
+
+    ```txt
+    MAVEN_HOME=/usr/local/maven/apache-maven-3.8.2
+    export PATH=${MAVEN_HOME}/bin:${PATH}
+    ```
+
+5. 应用环境变量
+
+    ```shell
+    source /etc/profile
+    ```
+
 ### 安装Git
 
 ```shell

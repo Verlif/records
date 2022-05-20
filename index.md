@@ -18,7 +18,11 @@
 
 ## 最新
 
-### [其他](tags/其他.md) ヾ(≧▽≦*)o  [Docker安装Jenkins](docs/学习/其他/Docker安装Jenkins.md)
+### [教程](tags/教程.md) ヾ(≧▽≦*)o  [CentOS Stream安装GitLab](docs/教程/CentOS&#32;Stream安装GitLab.md)
+
+> 安装GitLab比较方便的有两种方式：
+
+### [教程](tags/教程.md) ヾ(≧▽≦*)o  [Docker安装Jenkins](docs/教程/Docker安装Jenkins.md)
 
 > 这两天在学Docker，正好把Jenkins一起搞了。不得不...
 
@@ -33,10 +37,6 @@
 ### [Java周边](tags/Java周边.md) ヾ(≧▽≦*)o  [JavaDoc文档的书写](docs/学习/Java周边/JavaDoc文档书写.md)
 
 > 这里只记录方法注释相关的语法或是tip。
-
-### [MySQL](tags/MySQL.md) ヾ(≧▽≦*)o  [MySQL的数据导出](docs/学习/MySQL/MySQL的数据导出.md)
-
-> 一般情况下，我们都是使用的`Navicat`等的可视化工具进...
 
 ------
 
