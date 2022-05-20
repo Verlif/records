@@ -1,4 +1,4 @@
-# CentOS Stream安装GitLab
+# CentOS-Stream安装GitLab
 
 安装GitLab比较方便的有两种方式：
 

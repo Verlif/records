@@ -18,7 +18,7 @@
 
 ## 最新
 
-### [教程](tags/教程.md) ヾ(≧▽≦*)o  [CentOS Stream安装GitLab](docs/教程/CentOS&#32;Stream安装GitLab.md)
+### [教程](tags/教程.md) ヾ(≧▽≦*)o  [CentOS-Stream安装GitLab](docs/教程/CentOS-Stream安装GitLab.md)
 
 > 安装GitLab比较方便的有两种方式：
 

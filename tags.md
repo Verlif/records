@@ -30,7 +30,7 @@
 
 * __[教程](tags/教程.md)__
 
-  ↑ 共计 5 篇，最新的一篇为 [CentOS Stream安装GitLab](docs/教程/CentOS&#32;Stream安装GitLab.md)
+  ↑ 共计 5 篇，最新的一篇为 [CentOS-Stream安装GitLab](docs/教程/CentOS-Stream安装GitLab.md)
 
   * __[NoHtml教程](tags/NoHtml教程.md)__
 
