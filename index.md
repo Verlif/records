@@ -18,6 +18,18 @@
 
 ## 最新
 
+### [Java周边](tags/Java周边.md) ヾ(≧▽≦*)o  [Java的参数传递](docs/学习/Java周边/Java的参数传递.md)
+
+> 众所周知，Java的参数采用的是 __引用传递__ 的方式。...
+
+### [二三事](tags/二三事.md) ヾ(≧▽≦*)o  [SpringBoot开发的二三事](docs/二三事/SpringBoot开发的二三事.md)
+
+> 目前我使用最多的JavaWeb框架就是 __SpringBo...
+
+### [Java周边](tags/Java周边.md) ヾ(≧▽≦*)o  [通过Maven生成JavaDoc](docs/学习/Java周边/通过Maven生成JavaDoc.md)
+
+> 一般来说在代码中使用`javadoc`方式的注释就会方便二次...
+
 ### [教程](tags/教程.md) ヾ(≧▽≦*)o  [CentOS-Stream安装GitLab](docs/教程/CentOS-Stream安装GitLab.md)
 
 > 安装GitLab比较方便的有两种方式：
@@ -25,18 +37,6 @@
 ### [教程](tags/教程.md) ヾ(≧▽≦*)o  [Docker安装Jenkins](docs/教程/Docker安装Jenkins.md)
 
 > 这两天在学Docker，正好把Jenkins一起搞了。不得不...
-
-### [二三事](tags/二三事.md) ヾ(≧▽≦*)o  [使用IntelliJ的二三事](docs/二三事/使用IntelliJ的二三事.md)
-
-> `IntelliJ`应该是我最常用的编译器了，毕竟我是学`J...
-
-### [Java周边](tags/Java周边.md) ヾ(≧▽≦*)o  [IntelliJ的行分割符问题](docs/学习/Java周边/Idea的行分割符.md)
-
-> 最近写`record`都是在两台电脑上写，因为拉取文件的时候...
-
-### [Java周边](tags/Java周边.md) ヾ(≧▽≦*)o  [JavaDoc文档的书写](docs/学习/Java周边/JavaDoc文档书写.md)
-
-> 这里只记录方法注释相关的语法或是tip。
 
 ------
 
