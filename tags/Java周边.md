@@ -6,6 +6,12 @@
 
 ## __2022年__
 
+### 16日 __6月__
+
+#### [SpringBoot的Validation校验](../docs/学习/Java周边/SpringBoot的Validation校验.md)
+
+> 在使用SpringBoot进行web开发时，经常性地需要进行...
+
 ### 15日 __6月__
 
 #### [Java的参数传递](../docs/学习/Java周边/Java的参数传递.md)

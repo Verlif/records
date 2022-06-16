@@ -18,6 +18,10 @@
 
 ## 最新
 
+### [Java周边](tags/Java周边.md) ヾ(≧▽≦*)o  [SpringBoot的Validation校验](docs/学习/Java周边/SpringBoot的Validation校验.md)
+
+> 在使用SpringBoot进行web开发时，经常性地需要进行...
+
 ### [Java周边](tags/Java周边.md) ヾ(≧▽≦*)o  [Java的参数传递](docs/学习/Java周边/Java的参数传递.md)
 
 > 众所周知，Java的参数采用的是 __引用传递__ 的方式。...
@@ -33,10 +37,6 @@
 ### [教程](tags/教程.md) ヾ(≧▽≦*)o  [CentOS-Stream安装GitLab](docs/教程/CentOS-Stream安装GitLab.md)
 
 > 安装GitLab比较方便的有两种方式：
-
-### [教程](tags/教程.md) ヾ(≧▽≦*)o  [Docker安装Jenkins](docs/教程/Docker安装Jenkins.md)
-
-> 这两天在学Docker，正好把Jenkins一起搞了。不得不...
 
 ------
 
