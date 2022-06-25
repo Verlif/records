@@ -18,6 +18,10 @@
 
 ## 最新
 
+### [二三事](tags/二三事.md) ヾ(≧▽≦*)o  [写Android的那点事](docs/二三事/写Android的那点事.md)
+
+> ## Parameter.getAnnotation
+
 ### [Java周边](tags/Java周边.md) ヾ(≧▽≦*)o  [SpringBoot的Validation校验](docs/学习/Java周边/SpringBoot的Validation校验.md)
 
 > 在使用SpringBoot进行web开发时，经常性地需要进行...
@@ -33,10 +37,6 @@
 ### [Java周边](tags/Java周边.md) ヾ(≧▽≦*)o  [通过Maven生成JavaDoc](docs/学习/Java周边/通过Maven生成JavaDoc.md)
 
 > 一般来说在代码中使用`javadoc`方式的注释就会方便二次...
-
-### [教程](tags/教程.md) ヾ(≧▽≦*)o  [CentOS-Stream安装GitLab](docs/教程/CentOS-Stream安装GitLab.md)
-
-> 安装GitLab比较方便的有两种方式：
 
 ------
 
