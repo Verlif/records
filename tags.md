@@ -14,7 +14,7 @@
 
   * __[Java周边](tags/Java周边.md)__
 
-    ↑ 共计 5 篇，最新的一篇为 [SpringBoot的Validation校验](docs/学习/Java周边/SpringBoot的Validation校验.md)
+    ↑ 共计 4 篇，最新的一篇为 [Java的参数传递](docs/学习/Java周边/Java的参数传递.md)
 
   * __[MySQL](tags/MySQL.md)__
 
@@ -22,7 +22,7 @@
 
   * __[代码](tags/代码.md)__
 
-    ↑ 共计 7 篇，最新的一篇为 [Callable的简单应用](docs/学习/代码/Callable的简单应用.md)
+    ↑ 共计 9 篇，最新的一篇为 [Android的阻塞对话框](docs/学习/代码/Android的阻塞对话框.md)
 
   * __[其他](tags/其他.md)__
 
