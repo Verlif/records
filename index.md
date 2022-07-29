@@ -18,6 +18,14 @@
 
 ## 最新
 
+### [代码](tags/代码.md) ヾ(≧▽≦*)o  [Spring Boot中的EnableCaching简述](docs/学习/代码/SpringBoot的EnableCaching简述.md)
+
+> **spring boot**中自带有数据缓存机制，主要通过...
+
+### [代码](tags/代码.md) ヾ(≧▽≦*)o  [SpringBoot的Scheduled](docs/学习/代码/SpringBoot的Scheduled.md)
+
+> **Spring Boot**的`Scheduled`用于做...
+
 ### [代码](tags/代码.md) ヾ(≧▽≦*)o  [Android的阻塞对话框](docs/学习/代码/Android的阻塞对话框.md)
 
 > 今天有一个需求，就是要实现一个阻塞式的输入对话框，在对话框显...
@@ -29,14 +37,6 @@
 ### [代码](tags/代码.md) ヾ(≧▽≦*)o  [SpringBoot的Validation校验](docs/学习/代码/SpringBoot的Validation校验.md)
 
 > 在使用SpringBoot进行web开发时，经常性地需要进行...
-
-### [Java周边](tags/Java周边.md) ヾ(≧▽≦*)o  [Java的参数传递](docs/学习/Java周边/Java的参数传递.md)
-
-> 众所周知，Java的参数采用的是 __引用传递__ 的方式。...
-
-### [二三事](tags/二三事.md) ヾ(≧▽≦*)o  [SpringBoot开发的二三事](docs/二三事/SpringBoot开发的二三事.md)
-
-> 目前我使用最多的JavaWeb框架就是 __SpringBo...
 
 ------
 
