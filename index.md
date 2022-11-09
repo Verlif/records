@@ -18,6 +18,10 @@
 
 ## 最新
 
+### [二三事](tags/二三事.md) ヾ(≧▽≦*)o  [RabbitMQ的二三事](docs/二三事/RabbitMQ的二三事.md)
+
+> 消息队列这个东西的确是好用。
+
 ### [二三事](tags/二三事.md) ヾ(≧▽≦*)o  [使用IntelliJ的二三事](docs/二三事/使用IntelliJ的二三事.md)
 
 > `IntelliJ`应该是我最常用的编译器了，毕竟我是学`J...
@@ -33,10 +37,6 @@
 ### [代码](tags/代码.md) ヾ(≧▽≦*)o  [Spring Boot中的EnableCaching简述](docs/学习/代码/SpringBoot的EnableCaching简述.md)
 
 > **spring boot**中自带有数据缓存机制，主要通过...
-
-### [代码](tags/代码.md) ヾ(≧▽≦*)o  [Android的阻塞对话框](docs/学习/代码/Android的阻塞对话框.md)
-
-> 今天有一个需求，就是要实现一个阻塞式的输入对话框，在对话框显...
 
 ------
 
