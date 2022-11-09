@@ -22,7 +22,7 @@
 
   * __[代码](tags/代码.md)__
 
-    ↑ 共计 11 篇，最新的一篇为 [Spring Boot中的EnableCaching简述](docs/学习/代码/SpringBoot的EnableCaching简述.md)
+    ↑ 共计 12 篇，最新的一篇为 [SpringCloud学习记录](docs/学习/代码/SpringCloud学习记录.md)
 
   * __[其他](tags/其他.md)__
 

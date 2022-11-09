@@ -18,25 +18,25 @@
 
 ## 最新
 
+### [二三事](tags/二三事.md) ヾ(≧▽≦*)o  [使用IntelliJ的二三事](docs/二三事/使用IntelliJ的二三事.md)
+
+> `IntelliJ`应该是我最常用的编译器了，毕竟我是学`J...
+
+### [代码](tags/代码.md) ヾ(≧▽≦*)o  [SpringCloud学习记录](docs/学习/代码/SpringCloud学习记录.md)
+
+> 最近一直在学`SpringCloud`，还挺好玩的，这里记录...
+
+### [代码](tags/代码.md) ヾ(≧▽≦*)o  [Spring Boot的Scheduled](docs/学习/代码/SpringBoot的Scheduled.md)
+
+> **Spring Boot**的`Scheduled`用于做...
+
 ### [代码](tags/代码.md) ヾ(≧▽≦*)o  [Spring Boot中的EnableCaching简述](docs/学习/代码/SpringBoot的EnableCaching简述.md)
 
 > **spring boot**中自带有数据缓存机制，主要通过...
 
-### [代码](tags/代码.md) ヾ(≧▽≦*)o  [SpringBoot的Scheduled](docs/学习/代码/SpringBoot的Scheduled.md)
-
-> **Spring Boot**的`Scheduled`用于做...
-
 ### [代码](tags/代码.md) ヾ(≧▽≦*)o  [Android的阻塞对话框](docs/学习/代码/Android的阻塞对话框.md)
 
 > 今天有一个需求，就是要实现一个阻塞式的输入对话框，在对话框显...
-
-### [二三事](tags/二三事.md) ヾ(≧▽≦*)o  [写Android的那点事](docs/二三事/写Android的那点事.md)
-
-> ## Parameter.getAnnotation
-
-### [代码](tags/代码.md) ヾ(≧▽≦*)o  [SpringBoot的Validation校验](docs/学习/代码/SpringBoot的Validation校验.md)
-
-> 在使用SpringBoot进行web开发时，经常性地需要进行...
 
 ------
 
