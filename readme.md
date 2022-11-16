@@ -18,6 +18,10 @@
 
 ## 最新
 
+### [代码](tags/代码.md) ヾ(≧▽≦*)o  [Java的CAS简述](docs/学习/代码/Java的CAS简述.md)
+
+> *以下内容基于Java1.8编写*
+
 ### [二三事](tags/二三事.md) ヾ(≧▽≦*)o  [RabbitMQ的二三事](docs/二三事/RabbitMQ的二三事.md)
 
 > 消息队列这个东西的确是好用。
@@ -33,10 +37,6 @@
 ### [代码](tags/代码.md) ヾ(≧▽≦*)o  [Spring Boot的Scheduled](docs/学习/代码/SpringBoot的Scheduled.md)
 
 > **Spring Boot**的`Scheduled`用于做...
-
-### [代码](tags/代码.md) ヾ(≧▽≦*)o  [Spring Boot中的EnableCaching简述](docs/学习/代码/SpringBoot的EnableCaching简述.md)
-
-> **spring boot**中自带有数据缓存机制，主要通过...
 
 ------
 
