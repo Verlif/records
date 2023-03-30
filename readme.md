@@ -18,25 +18,25 @@
 
 ## 最新
 
-### [代码](tags/代码.md) ヾ(≧▽≦*)o  [Java的CAS简述](docs/学习/代码/Java的CAS简述.md)
-
-> *以下内容基于Java1.8编写*
-
 ### [二三事](tags/二三事.md) ヾ(≧▽≦*)o  [RabbitMQ的二三事](docs/二三事/RabbitMQ的二三事.md)
 
 > 消息队列这个东西的确是好用。
 
-### [二三事](tags/二三事.md) ヾ(≧▽≦*)o  [使用IntelliJ的二三事](docs/二三事/使用IntelliJ的二三事.md)
+### [代码](tags/代码.md) ヾ(≧▽≦*)o  [Java的CAS简述](docs/学习/代码/Java的CAS简述.md)
 
-> `IntelliJ`应该是我最常用的编译器了，毕竟我是学`J...
+> *以下内容基于Java1.8编写*
+
+### [代码](tags/代码.md) ヾ(≧▽≦*)o  [Swagger2不支持泛型复杂嵌套处理](docs/学习/代码/Swagger2不支持泛型复杂嵌套处理.md)
+
+> 在**swagger2**中，默认情况下并不会支持泛型复杂嵌...
 
 ### [代码](tags/代码.md) ヾ(≧▽≦*)o  [SpringCloud学习记录](docs/学习/代码/SpringCloud学习记录.md)
 
 > 最近一直在学`SpringCloud`，还挺好玩的，这里记录...
 
-### [代码](tags/代码.md) ヾ(≧▽≦*)o  [Spring Boot的Scheduled](docs/学习/代码/SpringBoot的Scheduled.md)
+### [代码](tags/代码.md) ヾ(≧▽≦*)o  [Spring Boot中的EnableCaching简述](docs/学习/代码/SpringBoot的EnableCaching简述.md)
 
-> **Spring Boot**的`Scheduled`用于做...
+> **spring boot**中自带有数据缓存机制，主要通过...
 
 ------
 
